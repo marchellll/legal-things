@@ -10,12 +10,12 @@ Another Bible is a simple, clean Bible reading app focused on clarity, speed, an
 
 If you need help, found a bug, or have feature suggestions, please contact:
 
-📧 imanel.marchell@gmail.com
+📧 imanuel.marchell+another-bible-support@gmail.com
 
 Please include:
 - Your device model
-- iOS version
-- App version
+- Operating system version
+- Another Bible version
 - Description of the issue
 
 ---
@@ -44,7 +44,7 @@ The app currently includes Bible translations that are in the public domain or d
 ## About the Developer
 
 Created by Marchell Imanuel.
-Built to provide a better Bible reading experience on iOS.
+Built to provide a better Bible reading experience.
 
 ---
 
